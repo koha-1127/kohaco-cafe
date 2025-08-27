@@ -1,0 +1,22 @@
+body{
+    background-color:#fdf6e3;
+    font-family:"arial",sans-serif;
+}
+h1{
+    color:brown;
+}
+p{
+    font-size: 18px;
+}
+img{
+    border-radius: 10px;
+}
+ul{
+    display:flex;
+    gap:20px;
+    list-style:none;
+}
+img{
+    display:block;
+    margin:auto;
+}
